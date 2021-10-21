@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+See https://chriswestwood.github.io/ for a list of projects I am working on.
+
 <!--
 **chriswestwood/chriswestwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
